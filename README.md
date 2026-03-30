@@ -87,7 +87,6 @@ Run all cells from top to bottom.
 
 Toronto, Vancouver, Calgary, Edmonton, Montreal, Ottawa, Winnipeg
 
----
 
 ## Key findings
 
